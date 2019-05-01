@@ -6,12 +6,19 @@
 # Requerimentos
 
   pip install matplotlib
+  
   pip install PIL
+  
   pip install python-resize-image
+  
   pip install pandas
+  
   pip install BeautifulSoup
+  
   pip install facebook-sdk
+  
   pip install tweepy
+  
   
   Ou, pra resumir: 
   
